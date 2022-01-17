@@ -12,6 +12,7 @@ export default class App extends Component {
   //   prop: PropTypes,
   // };
 
+
   state = {
     contacts: [],
     filter: "",
